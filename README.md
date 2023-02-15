@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aditya Raj Sharma
+- :zap: Hi, I’m Aditya Raj Sharma
 - 👀 I’m interested in Software Engineering and Web Designing
 - 🌱 I’m currently learning Human Computer Interaction and advanced topics in Full-Stack Developement!
 - 💞️ I’m looking to collaborate on Software Designing and Engineering ideas
