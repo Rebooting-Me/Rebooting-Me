@@ -10,5 +10,7 @@ Rebooting-Me/Rebooting-Me is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 ## Activity
+<!---
 ![Repository's Stats](https://github-readme-stats.vercel.app/api?username=Rebooting-Me&show_icons=true) <br /><br />
+--->
 ![Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebooting-Me&show_icons=true&theme=tokyonight)
