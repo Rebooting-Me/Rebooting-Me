@@ -1,8 +1,8 @@
 ## Welcome
-- 👋: Hi, I’m Aditya Raj Sharma
+- 👋 Hi, I’m Aditya Raj Sharma
 - :zap: I’m interested in Software Engineering and Web Designing
-- 📖: I’m currently learning Human Computer Interaction and advanced topics in Full-Stack Developement!
-- 🤝: I’m looking to collaborate on Software Designing and Engineering ideas
+- 📖 I’m currently learning Human Computer Interaction and advanced topics in Full-Stack Developement!
+- 🤝 I’m looking to collaborate on Software Designing and Engineering ideas
 - 📫 Reach me on my [LinkedIn](https://www.linkedin.com/in/aditya-raj-sharma-/) or my [Mail](mailto:arsharma@ucsd.edu)
 - :bell: Follow me on [Figma](https://www.figma.com/@adityarajsharma)
 <!---
