@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Raj Sharma!
 
-I am **Software Engineer** passionate about creating meaningful, human-centered digital experiences. I hold a Master's degree 🎓 in **Computer Science & Engineering** from **UC San Diego**, with a specialization in **Human-Computer Interaction (HCI)**.
+I am a **Software Engineer** passionate about creating meaningful, human-centered digital experiences. I hold a Master's degree 🎓 in **Computer Science & Engineering** from **UC San Diego**, with a specialization in **Human-Computer Interaction (HCI)**.
 
 ## 🛠️ What I Do:
 - **Full Stack Development**: Building fault-tolerant, scalable applications backed by HCI research.
